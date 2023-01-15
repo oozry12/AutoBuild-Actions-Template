@@ -7,7 +7,7 @@ Firmware_Diy_Core() {
 	Author=AUTO
 	Author_URL=AUTO
 	Default_Flag=AUTO
-	Default_IP="192.168.1.1"
+	Default_IP="192.168.30.1"
 	Default_Title="Powered by AutoBuild-Actions"
 
 	Short_Fw_Date=true
