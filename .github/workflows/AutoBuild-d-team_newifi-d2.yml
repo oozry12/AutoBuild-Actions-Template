@@ -22,9 +22,9 @@ on:
         default: ''
 ### 控制部分结束 ( 以上内容请保持不变 )
 
-  #push:
-  #  branches: 
-  #    - master
+  push:
+    branches: 
+      - master
 
   #schedule:
   #  - cron: 0 8 * * 5
